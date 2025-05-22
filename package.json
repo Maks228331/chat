@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Maks228331?tab=overview&from=2024-12-01&to=2024-12-31"
+    "url": "git+https://github.com/Maks228331/chat.git"
   },
   "engines": {
     "node": "14.x"
   },
-  "author": "https://github.com/Maks228331?tab=overview&from=2024-12-01&to=2024-12-31",
+  "author": "https://github.com/Maks228331/chat.git",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Maks228331?tab=overview&from=2024-12-01&to=2024-12-31"
+    "url": "https://github.com/Maks228331/chat.git"
   },
-  "homepage": "https://github.com/Maks228331?tab=overview&from=2024-12-01&to=2024-12-31",
+  "homepage": "https://github.com/Maks228331/chat.git",
   "description": "",
   "dependencies": {
     "cookie": "^1.0.2",
