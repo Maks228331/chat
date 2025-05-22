@@ -134,7 +134,7 @@ io.on("connection", async socket => {
     let login = socket.credentials?.login;
     let userId = socket.credentials?.user_id;
     let messages = await db.getMessages();
-    socket.emit("all_messages", messages)
+    socket.emit("all_messages", messages);
 
     socket.on("new_message", message => {   
         let now = new Date();
