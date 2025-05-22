@@ -1,9 +1,30 @@
 {
+  "name": "webchat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maks228331?tab=overview&from=2024-12-01&to=2024-12-31"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "https://github.com/Maks228331?tab=overview&from=2024-12-01&to=2024-12-31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maks228331?tab=overview&from=2024-12-01&to=2024-12-31"
+  },
+  "homepage": "https://github.com/Maks228331?tab=overview&from=2024-12-01&to=2024-12-31",
+  "description": "",
   "dependencies": {
     "cookie": "^1.0.2",
+    "crypto": "^1.0.1",
     "socket.io": "^4.8.1",
     "sqlite": "^5.1.1",
-    "sqlite3": "^5.1.7",
-    "start": "node index"
+    "sqlite3": "^5.1.7"
   }
 }
